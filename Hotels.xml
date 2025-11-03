@@ -1,0 +1,138 @@
+﻿<?xml version="1.0"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Omni</Name>
+		<Phone>602-794-8600</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>7</Number>
+			<Street>E University Dr</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Mission Palms, a Destination by Hyatt Hotel</Name>
+		<Phone>480-894-1400</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>60</Number>
+			<Street>E 5th Street</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Canopy</Name>
+		<Phone>480-968-6800</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>108</Number>
+			<Street>E University Dr</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Graduate by Hilton</Name>
+		<Phone>480-967-9431</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>225</Number>
+			<Street>E Apache Blvd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Hilton Garden Inn</Name>
+		<Phone>602-343-0006</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>15</Number>
+			<Street>E Monroe St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Sheraton</Name>
+		<Phone>602-262-2500</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>340</Number>
+			<Street>N 3rd St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Kimpton Hotel Palomar</Name>
+		<Phone>602-253-6633</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>2</Number>
+			<Street>E Jefferson St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6">
+		<Name>Fairmont Princess</Name>
+		<Phone>480-585-4848</Phone>
+		<Address NearestAirport ="Scottsdale">
+			<Number>7575</Number>
+			<Street>E Princess Dr</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Holiday Inn and Suites</Name>
+		<Phone>480-922-6500</Phone>
+		<Address NearestAirport ="Scottsdale">
+			<Number>14255</Number>
+			<Street>N 87th St</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6">
+		<Name>Grand Hyatt</Name>
+		<Phone>480-444-1234</Phone>
+		<Address NearestAirport ="Scottsdale">
+			<Number>7500</Number>
+			<Street>E Doubletree Ranch Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85258</Zip>
+		</Address>
+	</Hotel>
+	
+	
+	
+</Hotels>
