@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0"?>
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	   xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	<!-- The root element name is Hotel, instead of Hotels. -->
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Address NearestAirport ="">
+			<!-- A required attribute is missing; -->
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
@@ -28,6 +30,7 @@
 	<Hotel Rating="4.4">
 		<Name>Mission Palms</Name>
 		<Name>a Destination by Hyatt Hotel</Name>
+		<!-- Two names are provided for one of the hotels. -->
 		<Phone>480-894-1400</Phone>
 		<Address NearestAirport ="Sky Harbor">
 			<Number>60</Number>
@@ -52,7 +55,7 @@
 
 	<Hotel Rating="4.2">
 		<Name>Graduate by Hilton</Name>
-		<Phone>1</Phone>
+		<!-- A Phone element is missing on one of the hotels. -->
 		<Address NearestAirport ="Sky Harbor">
 			<Number>225</Number>
 			<Street>E Apache Blvd</Street>
@@ -79,11 +82,11 @@
 		<Phone>602-262-2500</Phone>
 		<Address NearestAirport ="Sky Harbor">
 			<Number>340</Number>
-			<Street>N 3rd St
+			<Street>N 3rd St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85004</Zip>
-		</Address>
+			<!-- An Address element has no closing tag -->
 	</Hotel>
 
 	<Hotel Rating="4.4">
